@@ -12,17 +12,4 @@ This project is a Java-based Student Management System that allows users to perf
     The application also saves and loads data from a file named students.txt for persistence.
 
 📚 Project Structure
-
-StudentManagementSystem/
-├── 📁 src/
-│   └── 📁 com/
-│       └── 📁 echtit/
-│           ├── 📁 models/
-│           │   └── Student.java
-│           ├── 📁 services/
-│           │   └── StudentService.java
-│           ├── 📁 utils/
-│           │   └── FileUtil.java
-│           └── Main.java
-├── 📁 bin/ (Generated after compilation)
-└── 📄 README.md
+![image](https://github.com/user-attachments/assets/c5f13d79-f64b-48d0-b1f7-741acb484aaa)
